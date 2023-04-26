@@ -1,6 +1,8 @@
+# GENERADOR DE WALLET
+
 Para ver si se creo la [Dirección](https://bscscan.com/).
 
-[Esaner](https://etherscan.io/) para escanear direcciones y tokens.
+[Escanear](https://etherscan.io/) para escanear direcciones y tokens.
 
 Para mejorar este código, se podrían tomar en cuenta las siguientes sugerencias:
 Utilizar una librería de manejo de claves privadas seguras, como crypto en lugar de utilizar el método `eth.accounts.create()` de la librería web3, ya que este último no ofrece un alto nivel de seguridad para la generación y almacenamiento de claves privadas.
